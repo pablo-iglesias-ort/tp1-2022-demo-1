@@ -1,1 +1,1 @@
-# tp1-2022-demo-1
+# Ejemplo de una implementación simple de JUnit para tests automatizados.
